@@ -1,0 +1,12 @@
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/bin/Debug/net6.0/Herrera.LeilaoOnline.Core.deps.json
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/bin/Debug/net6.0/Herrera.LeilaoOnline.Core.dll
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/bin/Debug/net6.0/Herrera.LeilaoOnline.Core.pdb
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.csproj.AssemblyReference.cache
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.AssemblyInfoInputs.cache
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.AssemblyInfo.cs
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.dll
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/refint/Herrera.LeilaoOnline.Core.dll
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/Herrera.LeilaoOnline.Core.pdb
+/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Core/obj/Debug/net6.0/ref/Herrera.LeilaoOnline.Core.dll

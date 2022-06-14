@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=94ebab33_002D8017_002D4e5d_002D9078_002D9b3115147e13/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LeilaoComVariosLances" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Herrera.LeilaoOnline.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ee565261_002Da14d_002D4fba_002D958d_002D272e41b7cca9/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="LeilaoComApenasUmLance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::1BA1F5D0-E31D-48F5-9E84-BAF3D33CF48D::net6.0::Herrera.LeilaoOnline.Tests.LeilaoTestes.LeilaoComApenasUmLance&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::1BA1F5D0-E31D-48F5-9E84-BAF3D33CF48D::net6.0::Herrera.LeilaoOnline.Tests.LeilaoTestes.LeilaoComLancesOrdenadorPorValor&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fc614315_002D489a_002D4974_002Db8cd_002D78e0bb0e6172/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" IsActive="True" Name="LeilaoComLancesOrdenadorPorNome" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/herrera/Desktop/Projects/rodrigo-herrera/_NET/Herrera.LeilaoOnline/Herrera.LeilaoOnline.Tests" Presentation="&amp;lt;tests&amp;gt;\&amp;lt;Herrera.LeilaoOnline.Tests&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
